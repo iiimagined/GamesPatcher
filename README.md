@@ -87,3 +87,54 @@ No clutter. No weird hacks. Just works.
 ## ⚙️ How it works
 
 macOS checks a simple value:
+If it's set to **games**, it appears in the Games app.
+
+GamesPatcher:
+- Creates launcher apps with that value  
+- Or patches existing apps safely  
+
+---
+
+## 🖥 Requirements
+
+- macOS 13 Ventura or newer  
+- Apple Games app  
+
+---
+
+## ⚙️ Installation (Free)
+
+1. Download from **Releases**
+2. Unzip  
+3. Move to **Applications**
+4. Open it  
+
+> First launch: Right-click → **Open** (macOS security prompt)
+
+---
+
+## ❓ FAQ
+
+**Will this break my apps?**  
+No — it only adds a category tag or creates a launcher.
+
+**Game not showing?**  
+macOS caching. Restart the Games app or log out.
+
+**Why upgrade?**  
+- Free → works  
+- Plus → feels good  
+- Pro → does everything  
+
+---
+
+## ❤️ Support
+
+If this project helps you, upgrading to Plus or Pro supports future updates and makes your setup *way nicer* to use.
+
+---
+
+## 👨‍💻 Creator
+
+Made by **iiimagined**  
+For Mac gamers 🎮
