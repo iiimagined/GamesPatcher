@@ -97,7 +97,7 @@ GamesPatcher:
 
 ## 🖥 Requirements
 
-- macOS 13 Ventura or newer  
+- macOS 26 or newer  
 - Apple Games app  
 
 ---
